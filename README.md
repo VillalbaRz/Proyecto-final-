@@ -1,59 +1,46 @@
-# Frontend
+# 🌊 Maxiquímicos - Proyecto Final
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
+¡Bienvenido/a a la página web oficial de **Maxiquímicos**!  
+Este proyecto es la culminación del Diplomado en desarrollo web Full Stack.
 
-## Development server
+---
 
-To start a local development server, run:
+## 📁 Estructura del proyecto
 
-```bash
-ng serve
-```
+🧩 Estructura del Frontend
+NavbarComponent ➔ Menú de navegación principal.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+AboutComponent ➔ Sección sobre la empresa.
 
-## Code scaffolding
+ServicesComponent ➔ Servicios ofrecidos (instalación, mantenimiento, químicos).
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+GalleryComponent ➔ Galería moderna de piscinas.
 
-```bash
-ng generate component component-name
-```
+ContactComponent ➔ Formulario de contacto.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
 
-```bash
-ng generate --help
-```
+FooterComponent ➔ Pie de página fijo.
 
-## Building
+WhatsApp Button ➔ Botón flotante para contacto rápido.
 
-To build the project run:
 
-```bash
-ng build
-```
+✨ Funcionalidades principales
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+Navegación entre vistas usando Angular Router.
 
-## Running unit tests
+Fondo de pantalla claro en toda la app.
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+Galería de proyectos de piscinas de lujo.
 
-```bash
-ng test
-```
+Formulario de contacto básico.
 
-## Running end-to-end tests
+Footer con información de contacto.
 
-For end-to-end (e2e) testing, run:
+WhatsApp flotante para mensajes directos.
 
-```bash
-ng e2e
-```
+Animaciones suaves en botones y enlaces.
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+Responsive Design (adaptado a móviles y tablets).
 
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+📜 Autor
+Sebastián Villalba
